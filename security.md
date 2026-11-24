@@ -187,4 +187,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Valheim · Updated 2026-11-23 · Shared under the MIT License*
+*Valheim · Updated 2026-11-24 · Shared under the MIT License*
